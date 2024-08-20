@@ -9,4 +9,8 @@ Reversed source code is in **idactf.cpp** <br>
 
 To compile and run, you need to decompress openssl-1.1.1w.zip <br><br>
 
+## Information
+
+This was accomplished only by statically analyzing the binary using IDA Pro.<br>
+
 /GHFear
